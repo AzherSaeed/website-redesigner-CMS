@@ -1,0 +1,11 @@
+{
+  "name": "@wr/exporter",
+  "version": "0.1.0",
+  "type": "module",
+  "main": "src/index.ts",
+  "types": "src/index.ts",
+  "dependencies": {
+    "@wr/assembler": "*",
+    "jszip": "^3.10.1"
+  }
+}
